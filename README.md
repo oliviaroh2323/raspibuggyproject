@@ -1,2 +1,2 @@
-# raspibuggyproject
-making a car with raspi
+# Raspi Buggy Project
+Making a car with raspi
