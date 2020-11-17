@@ -27,7 +27,7 @@ Creating a Raspi buggy can be a fun project to explore robotics!
 # Building the parts
 
 1. Solder the ExplorerHAT module to the Raspi. Also add GPIO outputs to Raspi.
-![ExplorerHAT module soldered](https://drive.google.com/file/d/188xOHvwnScobrvun4GcrM1R9_IJ9wmz1/view?usp=sharing)
+![ExplorerHAT module soldered](https://lh3.google.com/u/1/d/188xOHvwnScobrvun4GcrM1R9_IJ9wmz1=w1440-h821-iv1)
 2. Wire & solder the motors if needed(our motors came pre-soldered)
 3. Add camera module to the Raspi using the camera ribbon.
 4. Glue wheels to the motor. We used a glue gun to attatch the wheels on the white part of the motors.
