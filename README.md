@@ -3,16 +3,13 @@ Make a car with Raspberry Pi
 
 Creating a Raspi buggy can be a fun project to explore robotics!
 
---
 1. Materials
 2. Building the parts
 3. Create car base
 4. Coding
 5. Put everything together
---
 6. What to do with your buggy
 7. Citations
---
 
 # Materials
 
