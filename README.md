@@ -26,8 +26,8 @@ Creating a Raspi buggy can be a fun project to explore robotics!
 
 # Building the parts
 
+![ExplorerHAT module soldered](https://i.ibb.co/frGc6zx/IMG-2290.jpg)
 1. Solder the ExplorerHAT module to the Raspi. Also add GPIO outputs to Raspi.
-![ExplorerHAT module soldered](https://ibb.co/QYj5S3K)
 2. Wire & solder the motors if needed(our motors came pre-soldered)
 3. Add camera module to the Raspi using the camera ribbon.
 4. Glue wheels to the motor. We used a glue gun to attatch the wheels on the white part of the motors.
@@ -35,6 +35,7 @@ Creating a Raspi buggy can be a fun project to explore robotics!
 
 # Create car base
 1. Measure the dimensions of the motors + wheels, Raspi, the power bank and any other necessary objects.
+![3D model of our design](https://i.ibb.co/25wQf4q/IMG-2402.jpg)
 2. Create a 3D print design of the buggy using the measurements.
 3. Print the 3D model.
 
@@ -42,7 +43,8 @@ Creating a Raspi buggy can be a fun project to explore robotics!
 Code buggy movements by using a computer to access the Raspi.
 The python code file for this project can be found in the raspibuggyproject repository.
 
-# Put Everthing together
+# Put everthing together
+![Put everything together](https://i.ibb.co/1J7Pgsg/IMG-2559.jpg)
 1. Place all necessary objects in the car base.
 2. Make sure the car base is secure.
 
